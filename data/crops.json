@@ -1,0 +1,104 @@
+{
+  "Groundnut": {
+    "soils": [
+      "Red",
+      "Sandy",
+      "Loamy"
+    ],
+    "water": "medium",
+    "seasons": [
+      "kharif",
+      "rabi"
+    ],
+    "drainage": true,
+    "limits": [
+      "Needs loose, well-drained soil. Check moisture during flowering and pod development.",
+      "వదులుగా ఉండి నీరు సులభంగా దిగే నేల అవసరం. పూత, కాయలు ఏర్పడే దశల్లో తేమను చూడండి."
+    ]
+  },
+  "Paddy": {
+    "soils": [
+      "Clay",
+      "Black",
+      "Loamy"
+    ],
+    "water": "high",
+    "seasons": [
+      "kharif",
+      "rabi"
+    ],
+    "drainage": false,
+    "limits": [
+      "Check reliable water supply and choose a locally suitable variety.",
+      "నమ్మకమైన నీటి సరఫరా ఉందో చూసి, స్థానికంగా సరిపోయే రకాన్ని ఎంచుకోండి."
+    ]
+  },
+  "Cotton": {
+    "soils": [
+      "Black",
+      "Loamy"
+    ],
+    "water": "medium",
+    "seasons": [
+      "kharif"
+    ],
+    "drainage": true,
+    "limits": [
+      "Check drainage and the local sowing window.",
+      "నీరు బయట దిగేవాటం, స్థానిక విత్తే సమయం పరిశీలించండి."
+    ]
+  },
+  "Maize": {
+    "soils": [
+      "Red",
+      "Black",
+      "Loamy"
+    ],
+    "water": "medium",
+    "seasons": [
+      "kharif",
+      "rabi"
+    ],
+    "drainage": true,
+    "limits": [
+      "Avoid waterlogging and check moisture around tasseling and silking.",
+      "నీరు నిలవకుండా చూడండి. పూత దశలో నేల తేమను పరిశీలించండి."
+    ]
+  },
+  "Millets": {
+    "soils": [
+      "Red",
+      "Sandy",
+      "Black",
+      "Loamy"
+    ],
+    "water": "low",
+    "seasons": [
+      "kharif",
+      "rabi"
+    ],
+    "drainage": true,
+    "limits": [
+      "Species and variety differ in sowing window and water needs.",
+      "విత్తే సమయం, నీటి అవసరం చిరుధాన్యం జాతి, రకాన్ని బట్టి మారుతాయి."
+    ]
+  },
+  "Pulses": {
+    "soils": [
+      "Red",
+      "Sandy",
+      "Clay",
+      "Loamy"
+    ],
+    "water": "low",
+    "seasons": [
+      "kharif",
+      "rabi"
+    ],
+    "drainage": true,
+    "limits": [
+      "Check drainage, particularly in clay, and choose a locally suitable pulse species.",
+      "ముఖ్యంగా బంకమట్టిలో నీరు నిలవకుండా చూసి, స్థానికంగా సరిపోయే పప్పుధాన్యాన్ని ఎంచుకోండి."
+    ]
+  }
+}
